@@ -1,0 +1,10 @@
+
+Bug Bloque 1
+
+esta_vivo = 'true' // error: esta_vivo = True
+mana = int('cien') // error: mana = 120
+
+Bug Bloque 2
+
+if nivel >= 5 and vida > 0 // error: if nivel >= 5 and vida > 0:
+if clase == 'guerrero': // error: if clase == 'Guerrero':
